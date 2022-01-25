@@ -1,0 +1,6 @@
+{
+  "appTitle": "logging_n_appenders",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
