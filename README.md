@@ -18,7 +18,7 @@ And the logging appenders package:
 Here is the free link to the medium article:
 
 
-[Mastering Flutter Logging, The Best Practice Way]()
+[Mastering Logging And Appenders](https://fredgrott.medium.com/mastering-logging-and-appenders-5305e4bb950a?sk=b9f41b4488b169f698d74336330554ce)
 
 And you should sign up for my Email newsletter at my medium blog:
 
